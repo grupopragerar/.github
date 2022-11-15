@@ -1,5 +1,5 @@
 
-![Logo Pra Gerar](logo.png)
+![Logo Pra Gerar](./logo.png)
 
 <hr><br>
 
